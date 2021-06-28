@@ -1,0 +1,104 @@
+body{
+  text-align: center;
+  font-family:Open sans, sans-serif;
+  background-color: lightgrey;
+  color: brown;
+  margin:0px;
+}
+
+.titulo-internet{
+  color: #2a0074;
+}
+
+.titulo-inclusao{
+  color:teal;
+}
+
+.titulo-projeto{
+  color:orangered;
+}
+
+section{
+  width:60%;
+  margin:0 auto;
+}
+
+section section {
+  width: 100%;
+}
+
+h1{
+  font-size:60px;
+  font-weight:300;
+}
+
+h2{
+  color: #2a0074;
+  font-size: 40px;
+}
+
+h3{
+  font-size:22px;
+  font-style: italic;
+  text-align: center;
+}
+
+h4{
+  color:#2a0074;
+}
+
+h5{
+  font-style: italic;
+  text-align: left;
+  color:#2a0074;
+  text-align: justify;
+}
+
+p{
+  line-height: 1.5;
+  font-size: 20px;
+  text-align: center;
+}
+
+img{
+  width:100%;
+}
+
+ul{
+  list-style-type: none;
+  line-height: 2;
+  padding-left: 0;
+}
+
+a{
+  text-decoration: none;
+  color:orangered;
+  font-weight: 700;
+}
+
+.principal{
+  background:rgb(172, 11, 19);
+  height: 40px;
+  max-width: 60%;
+  margin: 0 auto;
+}
+
+.principal a{
+  color:goldenrod;
+  text-decoration: solid;
+  font-weight:600;
+  font-style: normal;
+}
+
+.principal li{
+  display: inline-block;
+  line-height: 2.5;
+  margin: 0 89px;
+}
+
+button{
+  background:#41f341;
+  border: 1px solid transparent;
+  padding: 2px 20px;
+  border-radius: 3px;
+}
